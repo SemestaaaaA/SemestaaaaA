@@ -1,5 +1,5 @@
 ### Hi there 👋, Nakita Semesta
-#### Game Dev & Web Dev
+#### LVL. 1 Game Dev 
 ![Sunflower](https://github.com/user-attachments/assets/b9f06a73-4901-45ec-b391-bc7a742114fd)
 
 
