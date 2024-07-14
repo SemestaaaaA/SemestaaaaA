@@ -1,6 +1,6 @@
 ### Hi there 👋, Nakita Semesta
 #### Game Dev & Web Dev
-![Y2k Header](https://github.com/user-attachments/assets/96610d03-4805-4526-ae3b-ceb8ede51503)
+![Y2k Header]([https://github.com/user-attachments/assets/96610d03-4805-4526-ae3b-ceb8ede51503](https://pin.it/7mvoiGDux))
 
 
 I made this project just for fun.
