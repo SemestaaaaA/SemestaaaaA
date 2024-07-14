@@ -1,8 +1,8 @@
 ### Hi there 👋, Nakita Semesta
-### Hi there 👋, Nakita Semesta
-![](https://pin.it/Wvw7W4cTC)
+#### Game Dev & Web Dev
+![Game Dev & Web Dev](https://pin.it/Wvw7W4cTC)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun.
 
 Skills: C++  / HTML / CSS
 
@@ -16,8 +16,3 @@ Skills: C++  / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemestaaaaA)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!---
-SemestaaaaA/SemestaaaaA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
