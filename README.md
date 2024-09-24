@@ -1,6 +1,6 @@
 ### Hi there 👋, Nakita Semesta
 #### LVL. 1 Game Dev 
-![Sunflower](https://github.com/user-attachments/assets/b9f06a73-4901-45ec-b391-bc7a742114fd)
+![Sunflower](<div class="tenor-gif-embed" data-postid="24200182" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/guts-berserk-guts-berserk-rain-sad-gif-24200182">Guts Berserk Rain GIF</a>from <a href="https://tenor.com/search/guts+berserk-gifs">Guts Berserk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 I made this project just for fun.
