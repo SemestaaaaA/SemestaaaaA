@@ -5,7 +5,7 @@
 ![Guts Berserk Rain](https://github.com/user-attachments/assets/65bc2834-8687-4c31-bee4-feba77724eff)
 
 
-I made a project base of a curiosity in the middle of night 
+I made a project base of curiosity in the middle of night 
 
 Skills: C++  / HTML / CSS / JavaSript / React
 
