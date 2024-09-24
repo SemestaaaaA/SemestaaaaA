@@ -1,6 +1,7 @@
-### Hi there 👋, Nakita Semesta
+![Guts Berserk Rain](https://github.com/user-attachments/assets/df557c50-b747-4368-aaeb-7a208c0194fa)### Hi there 👋, Nakita Semesta
 #### LVL. 1 Game Dev 
-![Image of GIF]([https://giphy.com/](https://tenor.com/en-GB/view/guts-berserk-guts-berserk-rain-sad-gif-24200182))
+(![Guts Berserk Rain](https://github.com/user-attachments/assets/65bc2834-8687-4c31-bee4-feba77724eff)
+)
 
 I made this project just for fun.
 
