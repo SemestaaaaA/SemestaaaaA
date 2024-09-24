@@ -1,6 +1,6 @@
 ### Hi there 👋, Nakita Semesta
 #### LVL. 1 Game Dev 
-![Sunflower](https://tenor.com/en-GB/view/guts-berserk-guts-berserk-rain-sad-gif-24200182)
+![Image of GIF]([https://giphy.com/](https://tenor.com/en-GB/view/guts-berserk-guts-berserk-rain-sad-gif-24200182))
 
 I made this project just for fun.
 
