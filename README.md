@@ -1,22 +1,33 @@
 
 
 ### Hi there , Nakita Semesta
-#### LVL. 2 Game Dev 
+
 ![Guts Berserk Rain](https://github.com/user-attachments/assets/65bc2834-8687-4c31-bee4-feba77724eff)
 
-
-I made a project base of curiosity in the middle of night 
-
-Skills: C++  / HTML / CSS / JavaSript / React
-
--  I’m currently learning Unity, JS, and React 
-- How to reach me: [mrsaladasss@gmail.com](mailto:mrsaladasss@gmail.com)
+U can reach me at: [mrsaladasss@gmail.com](mailto:mrsaladasss@gmail.com)
 
 
 
+# 💫 About Me:
+⚡️An active student from Tadulako University, Indonesia 🇮🇩<br>🎮LVL. 2 Frontend, UI/UX, & Game Dev <br>📚Currently learn Unity, React, & Blender<br>🌐Lately work on world building base & set up a story<br>🌙I made a project base of curiosity in the middle of night
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SemestaaaaA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nakita-semesta-9402382a3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@saladass.__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/riotgames.svg' alt='riotgames' height='40'>](nakieeet#5403)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg' alt='apple' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netflix.svg' alt='netflix' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/21wbidqro5xodsycm7hbncajq?si=7954dab6f82e497c)  
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semestaaaa.__) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemestaaaaA)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) 
+# 🍾 Design Stack:
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SemestaaaaA&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SemestaaaaA&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SemestaaaaA&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SemestaaaaA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SemestaaaaA&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
