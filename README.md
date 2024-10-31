@@ -10,7 +10,7 @@ You can reach me at: [mrsaladasss@gmail.com](mailto:mrsaladasss@gmail.com)
 
 
 # 💫 About Me:
-⚡️An passionate student from Tadulako University, Indonesia 🇮🇩<br>🎮LVL. 2 Frontend, UI/UX, & Game Dev <br>📚Currently learn Unity, React, & Blender<br>🌐Lately work on world building base & set up a story<br>🌙I made a project base of curiosity in the middle of night
+⚡️A passionate student from Tadulako University, Indonesia 🇮🇩<br>🎮LVL. 2 Frontend, UI/UX, & Game Dev <br>📚Currently learn Unity, React, & Blender<br>🌐Lately work on world building base & set up a story<br>🌙I made a project base of curiosity in the middle of night
 
 
 ## 🌐 Socials:
