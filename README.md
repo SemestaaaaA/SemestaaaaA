@@ -4,15 +4,6 @@
 
 ![Guts Berserk Rain](https://github.com/user-attachments/assets/65bc2834-8687-4c31-bee4-feba77724eff)
 
-      - palette:     A preset of color, one of [github, github-dark, github-light]
-      - color_snake: red
-      - color_dots:  Coma separated list of dots color.
-                     The first one is 0 contribution, then it goes from the low contribution to the highest.
-                     Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 U can reach me at: [mrsaladasss@gmail.com](mailto:mrsaladasss@gmail.com)
 
