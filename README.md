@@ -5,12 +5,12 @@
 ![Guts Berserk Rain](https://github.com/user-attachments/assets/65bc2834-8687-4c31-bee4-feba77724eff)
 
 
-U can reach me at: [mrsaladasss@gmail.com](mailto:mrsaladasss@gmail.com)
+You can reach me at: [mrsaladasss@gmail.com](mailto:mrsaladasss@gmail.com)
 
 
 
 # 💫 About Me:
-⚡️An active student from Tadulako University, Indonesia 🇮🇩<br>🎮LVL. 2 Frontend, UI/UX, & Game Dev <br>📚Currently learn Unity, React, & Blender<br>🌐Lately work on world building base & set up a story<br>🌙I made a project base of curiosity in the middle of night
+⚡️An passionate student from Tadulako University, Indonesia 🇮🇩<br>🎮LVL. 2 Frontend, UI/UX, & Game Dev <br>📚Currently learn Unity, React, & Blender<br>🌐Lately work on world building base & set up a story<br>🌙I made a project base of curiosity in the middle of night
 
 
 ## 🌐 Socials:
