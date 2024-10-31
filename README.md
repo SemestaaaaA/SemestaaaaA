@@ -14,6 +14,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semestaaaa.__) 
+##
 You can reach me at: [mrsaladasss@gmail.com](mailto:mrsaladasss@gmail.com)
 
 # 💻 Tech Stack:
