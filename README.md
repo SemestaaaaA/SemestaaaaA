@@ -1,6 +1,6 @@
 
 
-### Hi there , Nakita Semesta
+### Hi there , Nakita Semesta 🍵
 
 ![Drinking Tea Heimerdinger](https://github.com/user-attachments/assets/330bd2d7-82f2-405a-aa6b-6a98709baaf4)
 
@@ -30,6 +30,7 @@ You can reach me at: [mrsaladasss@gmail.com](mailto:mrsaladasss@gmail.com)
 ![](https://github-contributor-stats.vercel.app/api?username=SemestaaaaA&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 **Pow**
+
 ![Hand Gun Isha](https://github.com/user-attachments/assets/89c341fe-4525-49a0-9f19-61c02900d73e)
 
 
