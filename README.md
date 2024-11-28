@@ -1,6 +1,6 @@
 
 
-### Hi there , Nakita Semesta 🍵
+### Hi there , Nakita Semesta here! 🍵
 
 ![Drinking Tea Heimerdinger](https://github.com/user-attachments/assets/330bd2d7-82f2-405a-aa6b-6a98709baaf4)
 
