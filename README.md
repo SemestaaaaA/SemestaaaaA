@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-⚡️A passionate undergraduate student from Tadulako University, Indonesia 🇮🇩<br>🎮LVL. 2 Frontend, UI/UX, & Game Dev <br>📚Currently learn Unity, React, & Blender<br>🌐Lately work on world building base & set up a story<br>🌙I made a project based of curiosity in the middle of night
+⚡️A passionate undergraduate student from Tadulako University, Indonesia 🇮🇩<br>🎮LVL. 4 Front End, Machine Learning, AI ,UI/UX, & Game Dev <br>📚Currently AI Development, Game Dev, & Blender<br>🌐Lately work on world building base & set up a story<br>🌙I made a project based of curiosity in the middle of night
 
 
 ## 🌐 Socials:
